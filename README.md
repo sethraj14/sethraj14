@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [https://www.flyhomes.com/](https://www.flyhomes.com/)
+- 🔭 I’m currently working in [https://www.flyhomes.com/](https://www.flyhomes.com/)
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently doing **Mobile App Development**
 
 - 💬 Ask me about **React JS, React Native, Frontend, Javascript**
 
