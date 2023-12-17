@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Gupta</h1>
 
-<h3 align="center">A passionate front-end Developer with 5+ years experience based in India</h3>
+<h3 align="center">A passionate Senior Software Engineer with 5+ years experience based in India</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently doing **Mobile App Development**
 
-- 💬 Ask me about **React JS, React Native, Frontend, Javascript**
+- 💬 Ask me about **React JS, React Native, Frontend, Typescript, Optimizations, Javascript**
 
 - 📫 How to reach me **hello@rajdeepgupta.in**
 
