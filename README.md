@@ -4,10 +4,7 @@
 
 
 
-
-- 🔭 I’m currently working in [https://www.flyhomes.com/](https://www.flyhomes.com/)
-
-- 🌱 I’m currently doing **Mobile App Development**
+- 🌱 I’m currently doing **Frontend Development - Web & Mobile**
 
 - 💬 Ask me about **React JS, React Native, Frontend, Typescript, Optimizations, Javascript**
 
@@ -15,7 +12,7 @@
 
 - 📄 Know about me [https://www.rajdeepgupta.in/](https://www.rajdeepgupta.in/)
 
-- ⚡ Fun fact: **I was a crypto HODLer and am currently a trading enthusiast.**
+- ⚡ Fun fact: **I was a Crypto HODLer and am currently a trading enthusiast.**
 
 
 
