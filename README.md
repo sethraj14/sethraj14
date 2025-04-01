@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Gupta</h1>
 
-<h3 align="center">A passionate Senior Software Engineer with 5+ years experience based in India</h3>
+<h3 align="center">A passionate Senior Software Engineer with 7+ years experience based in India</h3>
 
 
 
